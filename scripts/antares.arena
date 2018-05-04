@@ -1,5 +1,5 @@
 {
-  map       "antares-b2"
-  longname  "Antares: Mining Facility ^3(beta2)^7"
-  type      "tremulous"
+map		"antares"
+longname	"Antares: alpha 1"
+type		"tremulous"
 }
