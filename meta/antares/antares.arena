@@ -1,5 +1,6 @@
 {
-map		"antares"
-longname	"Antares: alpha 4"
-type		"tremulous"
+	map "antares"
+	longname "Antares"
+	author "Pevel"
+	type "tremulous"
 }
