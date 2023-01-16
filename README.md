@@ -1,7 +1,7 @@
 Antares game level for Unvanquished
 ===================================
 
-![Antares levelshot](meta/antares/antares.jpg)
+![Antares levelshot](meta/antares/antares.webp)
 
 
 About
