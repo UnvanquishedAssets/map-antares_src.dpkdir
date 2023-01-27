@@ -9,8 +9,8 @@ textures/antares_pk02/floor07
 	nopicmip
 
 	{
-		diffuseMap  textures/antares_pk02_src/floor07_d
-		normalMap   textures/antares_pk02_src/floor07_n
+		diffuseMap textures/antares_pk02_src/floor07_d
+		normalMap textures/antares_pk02_src/floor07_n
 		specularmap textures/antares_pk02_src/floor07_s
 		alphafunc GE128
 	}
@@ -27,9 +27,9 @@ textures/antares_pk02/floor10
 	nopicmip
 
 	{
-		normalMap   textures/antares_pk02_src/floor10_n
+		normalMap textures/antares_pk02_src/floor10_n
 		specularmap textures/antares_pk02_src/floor10_s
-		diffuseMap  textures/antares_pk02_src/floor10_d
+		diffuseMap textures/antares_pk02_src/floor10_d
 		alphafunc GE128
 	}
 }
@@ -45,9 +45,9 @@ textures/antares_pk02/floor13a
 	nopicmip
 
 	{
-		normalMap   textures/antares_pk02_src/floor13_n
+		normalMap textures/antares_pk02_src/floor13_n
 		specularmap textures/antares_pk02_src/floor13_s
-		diffuseMap  textures/antares_pk02_src/floor13a_d
+		diffuseMap textures/antares_pk02_src/floor13a_d
 		alphafunc GE128
 	}
 }
